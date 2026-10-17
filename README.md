@@ -1,7 +1,9 @@
 # Little Lagoon
 
-A relaxed 3D island farming browser game. Grow crops, care for animals, cook, and level your skills.
+A relaxed 3D island farming browser game. Grow crops, care for animals, cook and level your skills.
 
-The Island and Character tabs share one preview. Progress is saved in your current browser; it does not sync between devices.
+Play: https://leolunelove.github.io/little-lagoon/
 
-Static release files for GitHub Pages. Three.js is distributed under its included MIT license.
+The game and optional character study are self-contained minified pages. Play.html preserves older links through a small redirect. Saves stay in the current browser and do not sync across devices.
+
+Three.js is distributed under the included MIT license.
